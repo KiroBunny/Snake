@@ -1,0 +1,14 @@
+﻿  Plansza.cpp
+S:\Snake\Snake1\Plansza.cpp(88,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(92,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(96,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(100,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(126,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(184,7): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(149,9): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+S:\Snake\Snake1\Plansza.cpp(149,6): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+S:\Snake\Snake1\Plansza.cpp(243,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(244,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(256,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(257,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Snake1.vcxproj -> S:\Snake\x64\Debug\Snake1.exe

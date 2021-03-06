@@ -1,0 +1,35 @@
+﻿  Main.cpp
+S:\Snake\Snake1\Main.cpp(103,6): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+S:\Snake\Snake1\Main.cpp(156,16): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(160,20): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(170,48): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(174,37): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(178,46): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(259,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Main.cpp(261,21): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Ustawienia.cpp
+  Plansza.cpp
+S:\Snake\Snake1\Plansza.cpp(88,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(92,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(96,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(100,33): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(126,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(184,7): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(149,9): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+S:\Snake\Snake1\Plansza.cpp(149,6): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+S:\Snake\Snake1\Plansza.cpp(243,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(244,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(256,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+S:\Snake\Snake1\Plansza.cpp(257,28): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Snake.cpp
+  Gracz.cpp
+  xyio.cpp
+S:\Snake\Snake1\xyio.cpp(5,16): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+S:\Snake\Snake1\xyio.cpp(5,18): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+S:\Snake\Snake1\Snake.cpp(29): warning C4715: "Snake::getTabWspY”: niewszystkie ścieżki kodu zwracają wartość
+S:\Snake\Snake1\Snake.cpp(23): warning C4715: "Snake::getTabWspX”: niewszystkie ścieżki kodu zwracają wartość
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Snake1.vcxproj -> S:\Snake\x64\Release\Snake1.exe

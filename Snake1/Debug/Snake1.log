@@ -1,0 +1,8 @@
+﻿  Main.cpp
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Snake.h(15,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Main.cpp(108,6): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Main.cpp(175,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Main.cpp(184,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Main.cpp(190,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Snake1\Main.cpp(200,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Snake1.vcxproj -> E:\Studia\semestr 5\Programowanie systemowe\snake\Snake1 +Łukasz\Snake1\Debug\Snake1.exe
